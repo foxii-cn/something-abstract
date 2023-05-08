@@ -1,4 +1,4 @@
-<mxfile host="draw.int.foxii.icu" modified="2023-05-05T08:12:45.481Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="qOXacrLPwgL2NyjyzKgq" version="21.2.1" type="device" pages="3">
+<mxfile host="draw.int.foxii.icu" modified="2023-05-08T01:21:30.160Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="yIDwR34ca0oKxpRWlqto" version="21.2.1" type="device" pages="3">
   <diagram name="第 1 页" id="Yl0xwaFMlr-NV5wVUSYk">
     <mxGraphModel dx="1878" dy="880" grid="1" gridSize="3" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -254,22 +254,34 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gBTcC4AUW1KsVr0NR5jS-4" value="认知加工（变化）过程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1284" y="293" width="120" height="60" as="geometry" />
+          <mxGeometry x="1246.5" y="293" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gBTcC4AUW1KsVr0NR5jS-6" value="人对苹果的认知结果（人对苹果的定义）&lt;br&gt;&lt;br&gt;苹果的外形&lt;br&gt;苹果的味道&lt;br&gt;苹果的用途&lt;br&gt;……" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1215" y="420" width="258" height="93" as="geometry" />
+          <mxGeometry x="1177.5" y="420" width="258" height="93" as="geometry" />
         </mxCell>
         <mxCell id="gBTcC4AUW1KsVr0NR5jS-8" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="1290" y="455" width="18" height="38" as="geometry" />
+          <mxGeometry x="1252.5" y="455" width="18" height="38" as="geometry" />
         </mxCell>
         <mxCell id="gBTcC4AUW1KsVr0NR5jS-9" value="通过这些方面描述" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1226" y="458" width="60" height="30" as="geometry" />
+          <mxGeometry x="1188.5" y="458" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PU_-Z7Xvc6fW0HBf1dwk-1" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="1244" y="15" width="200" height="200" as="geometry" />
+          <mxGeometry x="996" y="15" width="621" height="216" as="geometry" />
         </mxCell>
         <mxCell id="PU_-Z7Xvc6fW0HBf1dwk-2" value="人对苹果认知来源" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="PU_-Z7Xvc6fW0HBf1dwk-1">
-          <mxGeometry x="34" y="18" width="114" height="27" as="geometry" />
+          <mxGeometry x="253.5" y="9" width="114" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="PU_-Z7Xvc6fW0HBf1dwk-3" value="第一次接触&lt;br&gt;&lt;br&gt;看——苹果的外形&lt;br&gt;闻——苹果的气味" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PU_-Z7Xvc6fW0HBf1dwk-1">
+          <mxGeometry x="30" y="72" width="120" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="PU_-Z7Xvc6fW0HBf1dwk-4" value="第二次接触&lt;br&gt;&lt;br&gt;看——苹果的外形&lt;br&gt;闻——苹果的气味&lt;br&gt;摸——苹果的触感&lt;br&gt;尝——苹果的味道" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PU_-Z7Xvc6fW0HBf1dwk-1">
+          <mxGeometry x="177" y="72" width="120" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="PU_-Z7Xvc6fW0HBf1dwk-5" value="第三次接触&lt;br&gt;&lt;br&gt;看——苹果的外形&lt;br&gt;摸——苹果的触感&lt;br&gt;尝——苹果的味道" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PU_-Z7Xvc6fW0HBf1dwk-1">
+          <mxGeometry x="324" y="72" width="120" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="PU_-Z7Xvc6fW0HBf1dwk-6" value="第n次接触&lt;br&gt;&lt;br&gt;……" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PU_-Z7Xvc6fW0HBf1dwk-1">
+          <mxGeometry x="471" y="72" width="120" height="99" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
