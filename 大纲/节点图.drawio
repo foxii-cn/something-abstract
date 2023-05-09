@@ -1,4 +1,4 @@
-<mxfile host="draw.int.foxii.icu" modified="2023-05-08T01:21:30.160Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="yIDwR34ca0oKxpRWlqto" version="21.2.1" type="device" pages="3">
+<mxfile host="draw.int.foxii.icu" modified="2023-05-09T02:14:06.961Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="-BI4owNzpmWJBWureUfB" version="21.2.1" type="device" pages="3">
   <diagram name="第 1 页" id="Yl0xwaFMlr-NV5wVUSYk">
     <mxGraphModel dx="1878" dy="880" grid="1" gridSize="3" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -253,8 +253,8 @@
         <mxCell id="gBTcC4AUW1KsVr0NR5jS-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gBTcC4AUW1KsVr0NR5jS-4" target="gBTcC4AUW1KsVr0NR5jS-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gBTcC4AUW1KsVr0NR5jS-4" value="认知加工（变化）过程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1246.5" y="293" width="120" height="60" as="geometry" />
+        <mxCell id="gBTcC4AUW1KsVr0NR5jS-4" value="认知加工（变化）过程&lt;br&gt;&lt;br&gt;提取共性&lt;br&gt;忽略差异" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1227.75" y="276" width="157.5" height="87" as="geometry" />
         </mxCell>
         <mxCell id="gBTcC4AUW1KsVr0NR5jS-6" value="人对苹果的认知结果（人对苹果的定义）&lt;br&gt;&lt;br&gt;苹果的外形&lt;br&gt;苹果的味道&lt;br&gt;苹果的用途&lt;br&gt;……" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1177.5" y="420" width="258" height="93" as="geometry" />
